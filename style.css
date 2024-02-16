@@ -83,28 +83,30 @@ margin-left: 68%;
 
   .parrafo1{
     text-align: center;
-    font-family: 'Great Vibes', cursive;
+    font-family: 'Alex Brush', cursive;
        font-size: 28px;
        color: #888888;
-       margin-top: -780%;
+       margin-top: -700%;
   }
   
   .linea{
     color:#6B928F;
     width: 70%;
    margin-left: 15%;
+   margin-top: 10%;
    
   }
   .parrafo2{
     text-align: center;
-    font-family: 'Great Vibes', cursive;
+    font-family: 'Alex Brush', cursive;
      font-size: 28px;
      color: #6B928F;
      margin-top: -2%;
   }
   .parrafo3{
     text-align: center;
-    font-family: 'Great Vibes', cursive;
+     font-size: 28px;
+     font-family: 'Alex Brush', cursive;
      font-size: 28px;
      color: #888888;
   }
@@ -133,7 +135,7 @@ margin-left: 68%;
   
   .parrafo04{
     text-align: center;
-    font-family: 'Great Vibes', cursive;
+    font-family: 'Alex Brush', cursive;
      font-size: 28px;
      color: #888888;
      margin-top: -40%;
@@ -168,21 +170,21 @@ margin-left: 68%;
   
   .cardtitle{
     text-align: center;
-    font-family: 'Great Vibes', cursive;
+    font-family: 'Alex Brush', cursive;
      font-size: 20px;
      color: #888888;
      margin-top: 3%;
   }
   .cardtext{
     text-align: center;
-    font-family: 'Great Vibes', cursive;
+    font-family: 'Alex Brush', cursive;
      font-size: 18px;
      color: #888888;
      margin-top: 10%;
   }
   .cardtext1{
     text-align: center;
-    font-family: 'Great Vibes', cursive;
+    font-family: 'Alex Brush', cursive;
      font-size: 20px;
      color: #888888;
      margin-top: 8%;
@@ -225,7 +227,7 @@ margin-left: 68%;
  }
  .parrafo6{
   text-align: center;
-  font-family: 'Great Vibes', cursive; 
+  font-family: 'Alex Brush', cursive;
      font-size: 28px;
      color: #888888;
     
@@ -233,7 +235,7 @@ margin-left: 68%;
  }
  .parrafo7{
   text-align: center;
-  font-family: 'Great Vibes', cursive; 
+  font-family: 'Alex Brush', cursive;
      font-size: 28px;
      color: #888888;
     
@@ -332,7 +334,7 @@ margin-left: 68%;
   text-align: center;
   color: #686868;
   font-size: 28px;
-  font-family: 'Great Vibes', cursive;
+  font-family: 'Alex Brush', cursive;
   margin-top: 15%;
 
  }
@@ -360,11 +362,11 @@ margin-left: 68%;
   font-weight: bold;
 }
  .parrafo_esperamos{
+font-family: 'Alex Brush', cursive;
   text-align: center;
-  font-family: 'Great Vibes', cursive;
      font-size: 28px;
      color: #888888;
-     margin-top: 70%;
+     margin-top: 90%;
  }
  .linea4{
   color:#6B928F;
@@ -382,7 +384,7 @@ margin-top: -50%;
 
 
 .box__copyright {
-  margin-top: 46%;
+  margin-top: 6%;
 
 }
 
