@@ -214,7 +214,6 @@ margin-left: 68%;
     margin-left: 34%;
     background-size: 120%;
     margin-top: 4%;
-    background-image: url(./imagenes/grises.gif);
     background-size: 50%;
     font-family: 'Julius Sans One', sans-serif;
     font-weight: bold;
@@ -329,7 +328,51 @@ margin-left: 68%;
  
 
 }
- 
+.parrafoD{
+  text-align: center;
+  font-family: "Alegreya", serif; 
+     font-size: 17px;
+     color: #4d4c4c;
+     margin-top: 5%;
+     letter-spacing: 2px;
+}
+
+.gap1{
+  padding: 1px 9px;
+    font-size: 18px;
+    border: none;
+    color: #798491;
+    background-color: #F1E1E1;
+    border-radius: 7px;
+    box-shadow: 1px 1px 30px -5px rgb(232, 248, 207);
+    cursor: pointer;
+    margin-left: 34%;
+    background-size: 120%;
+    margin-top: 4%;
+    background-size: 50%;
+    font-family: 'Julius Sans One', sans-serif;
+    font-weight: bold;
+
+}
+
+.primary{
+  padding: 1px 9px;
+    font-size: 19px;
+    border: none;
+    color: #798491;
+    background-color: #F1E1E1;
+    border-radius: 7px;
+    box-shadow: 1px 1px 30px -5px rgb(231, 252, 197);
+    cursor: pointer;
+    margin-left: 37%;
+    background-size: 120%;
+    margin-top: 4%;
+    background-size: 50%;
+    font-family: 'Julius Sans One', sans-serif;
+    font-weight: bold;
+
+}
+
  .parrafo_deposito{
   text-align: center;
   color: #686868;
@@ -339,34 +382,12 @@ margin-left: 68%;
 
  }
 
- .card_card-body img{
-  margin-left: 20%;
-  background-size: 80%;
-  width: 75%;
-}
-.btn_btn-primary2{
-  padding: 1px 9px;
-  font-size: 18px;
-  border: none;
-  color: #798491;
-  background-color: #F1E1E1;
-  border-radius: 7px;
-  box-shadow: 1px 1px 30px -5px rgb(232, 248, 207);
-  cursor: pointer;
-  margin-left: 38%;
-  background-size: 120%;
-  margin-top: 4%;
-  background-image: url(./imagenes/grises.gif);
-  background-size: 50%;
-  font-family: 'Julius Sans One', sans-serif;
-  font-weight: bold;
-}
  .parrafo_esperamos{
 font-family: 'Alex Brush', cursive;
   text-align: center;
      font-size: 28px;
      color: #888888;
-     margin-top: 90%;
+     margin-top: 40%;
  }
  .linea4{
   color:#6B928F;

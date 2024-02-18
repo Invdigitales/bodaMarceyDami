@@ -69,7 +69,7 @@ boton.addEventListener("click", () => {
       icon: 'success',
       html:
         'INGRESÁ' +
-        '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13123.825550772704!2d-58.57514900591812!3d-34.681050164121594!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcc7c753514fcd%3A0x54abcfe12a8f5864!2sParroquia%20Catedral%20de%20los%20Santos%20Justo%20y%20Pastor!5e0!3m2!1ses-419!2sar!4v1705150753715!5m2!1ses-419!2sar" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>' +
+        '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3274.2175220431423!2d-58.5014719!3d-34.850761299999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcd12cca695b77%3A0x1c1289eea1d1969d!2sNuestra%20Se%C3%B1ora%20de%20Fatima!5e0!3m2!1ses-419!2sar!4v1708297677910!5m2!1ses-419!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>' +
         'Podes ampliar el mapa',
         
         
