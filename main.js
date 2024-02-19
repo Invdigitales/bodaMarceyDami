@@ -3,7 +3,6 @@ let diaEvento = new Date('March 23, 2024 21:30:00').getTime();
 let boton = document.querySelector("#btn")
 
 
-
 // diaEvento = new Date().getTime() + 1_000 * 20;
 
 let relojE = document.getElementById('reloj');
@@ -76,3 +75,15 @@ boton.addEventListener("click", () => {
     })
   });
 
+function exito(){
+    Swal.fire({
+        title: '<strong>VER LA UBICACION<u></u></strong>',
+        icon: 'success',
+        html:
+          'INGRESÁ' +
+          '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3272.9411130453873!2d-58.5096412!3d-34.882825!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcd71d4ea0fbb3%3A0x9c253116d2018316!2sMadretierra%20espacio%20de%20arte%20Paul&#39;s%20Cafe%2C%20Carlos%20Chagas%203236%2C%20B1801BAB%20Canning%2C%20Provincia%20de%20Buenos%20Aires!5e0!3m2!1ses-419!2sar!4v1708364500626!5m2!1ses-419!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>' +
+          'Podes ampliar el mapa',
+          
+          
+      })
+}
